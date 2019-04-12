@@ -2,4 +2,4 @@
 
 ## Introduction
 
-Small API based on default Book app
+API made with Zend 3.
