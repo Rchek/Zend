@@ -1,4 +1,4 @@
-# ZendSkeletonApplication
+# Zend 3 Application
 
 ## Introduction
 
