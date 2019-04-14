@@ -1,5 +1,2 @@
-# Zend 3 Application
-
-## Introduction
-
-API made with Zend 3.
+## Zend 3 API
+## Please read the manual in /Manual/
